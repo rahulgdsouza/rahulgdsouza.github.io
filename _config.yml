@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-url: http://koppl.in/indigo
+url: http://rahuldsouza.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -44,11 +44,11 @@ email: rahulgdsouza@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Rahul D'souza
+        bio: Eat. Sleep. Code. Repeat
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: rahulgdsouza
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
