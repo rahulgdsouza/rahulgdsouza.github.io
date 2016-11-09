@@ -1,6 +1,6 @@
 # main text of home
 name: Rahul D'souza
-bio: Eat. Sleep. Code. Repeat
+bio: Eat. Sleep. Manage. Repeat
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-url: http://localhost:4000
+url: http://rahulgdsouza.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -19,7 +19,7 @@ markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+# analytics-google: 'UA-87116079-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -37,15 +37,15 @@ instagram: rahulgdsouza
 linkedin: rahulgdsouza
 # youtube: myyoutube
 # spotify: myspotify
-github: rahuldsouza
+github: rahulgdsouza
 medium: rahulgdsouza
 # vimeo: myvimeo
 email: rahulgdsouza@gmail.com
 
 authors:
-    johndoe:
+    rahulgdsouza:
         name: Rahul D'souza
-        bio: Eat. Sleep. Code. Repeat
+        bio: Eat. Sleep. Manage. Repeat
         external-image: false
         picture: assets/images/profile.jpg
         twitter: rahulgdsouza
