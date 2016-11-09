@@ -10,7 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-url: http://rahuldsouza.github.io
+url: http://localhost:4000
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -60,7 +60,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: false
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: false
