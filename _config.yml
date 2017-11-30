@@ -3,7 +3,7 @@ name: Rahul D'souza
 bio: Eat. Sleep. Manage. Repeat
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: This is me, @rahulgdsouza!
 
 # if it's an external image, update below for true
 # better with square images
@@ -19,7 +19,7 @@ markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-87116079-1'
+analytics-google: 'UA-87116079-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -29,7 +29,7 @@ highlighter: rouge
 # disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: lord.rahul
+facebook: rahulgdsouza
 twitter: rahulgdsouza
 # google: mygoogle
 instagram: rahulgdsouza
