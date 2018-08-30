@@ -1,6 +1,6 @@
 # main text of home
 name: Rahul D'souza
-bio: Eat. Sleep. Manage. Repeat
+bio: Eat. Sleep. <del>Manage</del> Code. Repeat
 
 # twitter summary info
 description: This is me, @rahulgdsouza!
@@ -29,10 +29,10 @@ analytics-google: 'UA-87116079-1'
 # disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: rahulgdsouza
+# facebook: rahulgdsouza
 twitter: rahulgdsouza
 # google: mygoogle
-instagram: rahulgdsouza
+# instagram: rahulgdsouza
 # pinterest: mypinterest
 linkedin: rahulgdsouza
 # youtube: myyoutube
