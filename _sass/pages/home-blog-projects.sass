@@ -48,10 +48,19 @@
         line-height: 1.45
 
     > .item > .url > .links
+        display: flex
         margin-bottom: 15px
 
     > .item > .url > .links > .link
-        display:block
+        display: flex
+        flex-direction: row
+        align-items: center
+        margin-right: 10px
+        text-decoration: none
+
+        > .icon 
+            width: 15px
+            margin-right: 5px
 
         
     // maybe we can't nest html5 elements

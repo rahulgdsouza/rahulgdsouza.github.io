@@ -1,6 +1,6 @@
 # main text of home
 name: Rahul D'souza
-bio: Eat. Sleep. <del>Manage</del> Code. Repeat
+bio: Software Engineer
 
 # twitter summary info
 description: This is me, @rahulgdsouza!
@@ -8,7 +8,7 @@ description: This is me, @rahulgdsouza!
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/rahulgdsouza.png
 
 url: https://rahulgdsouza.github.io
 # your url: http://USERNAME.github.io
@@ -30,7 +30,7 @@ analytics-google: 'UA-87116079-1'
 
 # if you don't have any of social below, comment the line
 # facebook: rahulgdsouza
-twitter: rahulgdsouza
+# twitter: rahulgdsouza
 # google: mygoogle
 # instagram: rahulgdsouza
 # pinterest: mypinterest
@@ -39,6 +39,7 @@ linkedin: rahulgdsouza
 # spotify: myspotify
 github: rahulgdsouza
 medium: rahulgdsouza
+goodreads: rahulgdsouza
 # vimeo: myvimeo
 email: rahulgdsouza@gmail.com
 
@@ -47,7 +48,7 @@ authors:
         name: Rahul D'souza
         bio: Eat. Sleep. Manage. Repeat
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/rahulgdsouza.png
         twitter: rahulgdsouza
 
 # do you want a larger site? change the option below
