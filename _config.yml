@@ -21,6 +21,9 @@ highlighter: rouge
 # To enable google analytics, supply your token below
 analytics-google: 'UA-87116079-1'
 
+# To enable intercom chat
+messenger-intercom: k6lg1pp2
+
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
 # analytics-piwik-id: 1
