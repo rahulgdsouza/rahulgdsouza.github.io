@@ -1,14 +1,14 @@
 # main text of home
 name: Rahul D'souza
-bio: Software Engineer
+bio: Product Engineer
 
 # twitter summary info
 description: This is me, @rahulgdsouza!
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/rahulgdsouza.png
+external-image: true
+picture: https://avatars3.githubusercontent.com/u/6426950?v=4
 
 url: https://rahulgdsouza.github.io
 # your url: http://USERNAME.github.io
@@ -22,7 +22,7 @@ highlighter: rouge
 analytics-google: 'UA-87116079-1'
 
 # To enable intercom chat
-messenger-intercom: k6lg1pp2
+# messenger-intercom: k6lg1pp2
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -41,7 +41,7 @@ linkedin: rahulgdsouza
 # youtube: myyoutube
 # spotify: myspotify
 github: rahulgdsouza
-medium: rahulgdsouza
+# medium: rahulgdsouza
 goodreads: rahulgdsouza
 # vimeo: myvimeo
 email: rahulgdsouza@gmail.com
@@ -49,9 +49,9 @@ email: rahulgdsouza@gmail.com
 authors:
     rahulgdsouza:
         name: Rahul D'souza
-        bio: Eat. Sleep. Manage. Repeat
-        external-image: false
-        picture: assets/images/rahulgdsouza.png
+        bio: Eat. Sleep. Code. Repeat
+        external-image: true
+        picture: https://avatars3.githubusercontent.com/u/6426950?v=4
         twitter: rahulgdsouza
 
 # do you want a larger site? change the option below
@@ -64,7 +64,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: false
